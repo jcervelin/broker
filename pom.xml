@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>jp-msg-broker</groupId>
-    <artifactId>io.jcervelin.broker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>io.jcervelin</groupId>
+    <artifactId>broker</artifactId>
+    <version>1</version>
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>

@@ -48,8 +48,6 @@ public class Main {
         for (int i = 0; 100 > i; i++) {
             messageConsumer.execute(event2);
         }
-
-
     }
 
 }
